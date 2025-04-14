@@ -35,7 +35,7 @@ Acompanhe meu progresso e veja o que estou aprendendo em tempo real! No canal "O
 
 Enquanto ainda não tenho projetos para mostrar, estou me dedicando a aprender e praticar! Em breve, este espaço estará cheio de código e contribuições.
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dev-oestagiario&show_icons=true&theme=radical)
 
 ## Contato
 
